@@ -5,3 +5,5 @@ myfeature1 completed
 My new feature 3 finally done
 ### Again a change in the origin master
 
+change at the end
+
