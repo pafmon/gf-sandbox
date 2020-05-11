@@ -10,3 +10,4 @@ My new feature 3 finally done
 change at the end
 change conflict
 
+conflict again
