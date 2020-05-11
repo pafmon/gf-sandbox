@@ -8,4 +8,5 @@ My new feature 3 finally done
 ### Again a change in the origin master
 
 change at the end
+change conflict
 
