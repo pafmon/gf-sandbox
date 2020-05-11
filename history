@@ -1,0 +1,317 @@
+    1  ls
+    2  ls
+    3  cd
+    4  mkdir devel
+    5  cd devel/
+    6  ls
+    7  git config --global user.name "Vlad Dracula"
+    8  git config --global user.name "pafmon"
+    9  git config --global user.email "pafmon@gmail.com"
+   10  git config --global core.editor "code --wait
+   11  "
+   12  git config --global core.editor "code --wait"
+   13  git config --list
+   14  ls
+   15  mkdir github
+   16  cd github/
+   17  ls
+   18  git clone https://github.com/pafmon/shared-timer.git
+   19  ls
+   20  cd shared-timer/
+   21  ls
+   22  ls
+   23  exit
+   24  node
+   25  npx apipecker
+   26  npx apipecker
+   27  npx apipecker 2 3 500 http://knapsack-api.herokuapp.com/api/v1/stress/10000/10 -v
+   28  cd ..
+   29  ls
+   30  cd devel/
+   31  cd github/
+   32  ls
+   33  cd shared-timer/
+   34  ls
+   35  npm install
+   36  npm start
+   37  ls
+   38  npm start
+   39  exit
+   40  pint -t 8.8.8.9
+   41  ping -t 8.8.8.8
+   42  npx apipecker
+   43  npx apipecker 2 3 500 http://knapsack-api.herokuapp.com/api/v1/stress/10000/10 -v
+   44  exit
+   45  pint -t 8.8.8.9
+   46  ping -t 8.8.8.8
+   47  ls
+   48  cd sos1920/
+   49  ls
+   50  cd sos1920-l1
+   51  cd sos1920-l10/
+   52  ls
+   53  cd ..
+   54  ls
+   55  npx apipecker
+   56  npx apipecker2 3 500 http://knapsack-api.herokuapp.com/api/v1/stress/10000/10 -v
+   57  npx apipecker 2 3 500 http://knapsack-api.herokuapp.com/api/v1/stress/10000/10 -v
+   58  ls
+   59  ls
+   60  cd ..
+   61  ls
+   62  git clone 
+   63  ks
+   64  ls
+   65  git clone https://github.com/pafmon/svelte-sandbox.git
+   66  ls
+   67  cd svelte-sandbox/
+   68  ls
+   69  npm run dev
+   70  npm install
+   71  npm run dev
+   72  cd ..
+   73  ls
+   74  mv svelte-sandbox/ github/
+   75  cd github/
+   76  cd svelte-sandbox/
+   77  ls
+   78  npm run dev
+   79  ls
+   80  ls
+   81  cd  devel/
+   82  ls
+   83  cd sos1920/
+   84  ls
+   85  exit
+   86  ls
+   87  cd
+   88  cls
+   89  cls
+   90  ls
+   91  cd devel/
+   92  ls
+   93  cd github/
+   94  ls
+   95  cd svelte-sandbox/
+   96  ls
+   97  ls
+   98  cd devel/
+   99  ls
+  100  cd github/
+  101  ls
+  102  cd svelte-sandbox/
+  103  ls
+  104  ls -l
+  105  ls
+  106  test
+  107  asdf
+  108  npx hello-world
+  109  npx apipecker
+  110  npx  apipecker 2 3 500 http://knapsack-api.herokuapp.com/api/v1/stress/10000/10 -v
+  111  clear
+  112  ls
+  113  exit
+  114  exit
+  115  ls
+  116  mkdir sos1920-l12
+  117  cd sos1920-l12/
+  118  ls
+  119  npm init
+  120  ls
+  121  code .
+  122  ls
+  123  rm *
+  124  ls
+  125  npx degit sveltejs/template .
+  126  ls
+  127  code  .
+  128  npm install
+  129  npm install
+  130  npm install express --save
+  131  npm run dev
+  132  npm run dev
+  133  ls
+  134  cd de
+  135  cd devel/
+  136  ls
+  137  cd github/
+  138  ls
+  139  git clone https://github.com/perses-org/perses.git
+  140  ls
+  141  cd perses/
+  142  ls
+  143  cd ..
+  144  ls
+  145  git clone https://github.com/isa-group/oas-wizard.git
+  146  ls
+  147  code .
+  148  cd perses/
+  149  ls
+  150  git init
+  151  npm init
+  152  npm install commander mustache js-yaml --save
+  153  ls
+  154  npm start
+  155  npm start
+  156  npm start --help
+  157  node index
+  158  node index --help
+  159  node index --help -V
+  160  node index --help -V
+  161  node index --help
+  162  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  163  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  164  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  165  ls
+  166  cat output.tf 
+  167  date +"%T"
+  168  date +"%t"
+  169  date +"%h"
+  170  date +"%s"
+  171  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  172  ls
+  173  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  174  ls
+  175  ls
+  176  ls -l
+  177  ls
+  178  ls
+  179  ls
+  180  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  181  ls
+  182  l
+  183  ls
+  184  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  185  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  186  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  187  npm install console-stamp --save
+  188  npm install log-timestamp --save
+  189  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  190  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  191  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  192  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  193  node index tests/assets/configExample.yaml tests/assets/credentialsExample.yaml myTest
+  194  ls
+  195  node index -h
+  196  git add .
+  197  ls
+  198  git commit -m "Complete scaffolding"
+  199  git push
+  200  ls
+  201  cd devel/
+  202  ls
+  203  cd github/
+  204  ls
+  205  echo "# gf-sandbox" >> README.md
+  206  git init
+  207  git add README.md
+  208  git commit -m "first commit"
+  209  git remote add origin https://github.com/pafmon/gf-sandbox.git
+  210  git push -u origin master
+  211  ls
+  212  ls -la
+  213  rm -rf .git
+  214  ls
+  215  rm README.md 
+  216  mkdir gf-sandbox
+  217  cd gf-sandbox/
+  218  echo "# gf-sandbox" >> README.md
+  219  git init
+  220  git add README.md
+  221  git commit -m "first commit"
+  222  git remote add origin https://github.com/pafmon/gf-sandbox.git
+  223  git push -u origin master
+  224  git pull
+  225  git pull origin
+  226  git push -u origin master
+  227  ls
+  228  ls -l
+  229  git cd ..
+  230  ls
+  231  cd -
+  232  ls
+  233  cd gf-sandbox/
+  234  ls
+  235  cat README.md 
+  236  git remote -l
+  237  git remotes
+  238  git remote
+  239  git remote -V
+  240  git remote -v
+  241  git list
+  242  git summary
+  243  git --help
+  244  git status
+  245  git add .
+  246  git commit -m "msg"
+  247  git push
+  248  git push --set-upstream origin master
+  249  git pull
+  250  git pull
+  251  git pull origin
+  252  git pull origin master
+  253  cd ..
+  254  ls
+  255  rm -rf gf-sandbox/
+  256  git clone https://github.com/pafmon/gf-sandbox.git
+  257  cd gf-sandbox/
+  258  ls
+  259  git checkout feature1 -b
+  260  git checkout -b feature1
+  261  ls
+  262  echo "myfeature1" >> README.md 
+  263  git add .
+  264  git commit -m "feature1 half done"
+  265  echo "myfeature1 completed" >> README.md 
+  266  git commit -m "feature1 done"
+  267  git  add .
+  268  git commit -m "feature1 done"
+  269  ls
+  270  git push 
+  271  git push --set-upstream origin feature1
+  272  ls
+  273  git checkout master
+  274  ls
+  275  cat README.md 
+  276  git pull
+  277  cat README.md 
+  278  git checkout -b feature2
+  279  echo "#feature 2 first step">> README.md 
+  280  code .
+  281  ls
+  282  git add .
+  283  git commit -m "feature2 done"
+  284  git push --set-upstream origin feature2
+  285  git mege
+  286  git merge
+  287  git merge origin master 
+  288  code .
+  289  git status
+  290  git git commit -m "Fixed integration"
+  291  git commit -m "Fixed integration"
+  292  git push
+  293  ls
+  294  git status
+  295  git checkout master
+  296  git pull
+  297  ls
+  298  git checkout -b #2 - Feature 3
+  299  git checkout -b "#2 - Feature 3"
+  300  git checkout -b "#2"
+  301  git add .
+  302  git commit -m "ALmost done"
+  303  git push
+  304  git push origin
+  305  git push origin #2
+  306  git push --set-upstream origin #2
+  307  git push --set-upstream origin "#2"
+  308  git add .
+  309  git commit -m "#2 ALmost done"
+  310  git push --set-upstream origin "#2"
+  311  git add .
+  312  git commit -m "#2 Fixed"
+  313  git push --set-upstream origin "#2"
+  314  git merge origin master
+  315  git merge origin master
+  316  ls
+  317  history > history
