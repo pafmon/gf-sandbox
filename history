@@ -315,3 +315,43 @@
   315  git merge origin master
   316  ls
   317  history > history
+  318  git merge origin master
+  319  git status
+  320  git add .
+  321  git commit -m "added history"
+  322  git push --set-upstream orogin "#2"
+  323  git push --set-upstream origin "#2"
+  324  git merge origin master
+  325  ls
+  326  git merge master origin
+  327  git merge master
+  328  ls
+  329  git checkout master
+  330  git checkout "#2"
+  331  git merge origin/master
+  332  git pull origin/master
+  333  git pull origin master
+  334  git add .
+  335  git commit -m "Fixed conflict"
+  336  git push origin "#2"
+  337  git pull origin/master
+  338  git pull origin master
+  339  git add .
+  340  git commit -m "completed fix #2"
+  341  git push origin "#2"
+  342  git pull origin master
+  343   
+  344  git pull origin master
+  345  git push origin "#2"
+  346  git push origin "#2"
+  347  git add .
+  348  git commit -m "completed for second time fix #2"
+  349  git add .
+  350  git commit -m "completed for second time fix #2"
+  351  git push origin "#2"
+  352  git pull origin master
+  353  git pull origin master
+  354  git add .
+  355  git commit -m "completed for second time fix #2"
+  356  git pull origin master
+  357  history > history
