@@ -13,4 +13,4 @@ change conflict
 conflict again
 
 ### Help
-This is a new section for Help
+This is a new section for Help.
