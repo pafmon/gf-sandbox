@@ -355,3 +355,23 @@
   355  git commit -m "completed for second time fix #2"
   356  git pull origin master
   357  history > history
+  358  git add .
+  359  git commit -m "updated history"
+  360  git push
+  361  git pulll origin master
+  362  git pull origin master
+  363  git push 
+  364  git checkout master
+  365  git pull
+  366  git checkout -b "#5-HelpSection"
+  367  git add .
+  368  git commit -m "#5 almost done"
+  369  git add .
+  370  git commit -m "#5 done"
+  371  git add .
+  372  git commit -m "#5 done"
+  373  git push
+  374   git push --set-upstream origin #5-HelpSection
+  375   git push --set-upstream origin "#5-HelpSection"
+  376  git pull origin master
+  377  history > history
