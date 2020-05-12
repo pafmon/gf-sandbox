@@ -3,4 +3,4 @@ change ...
 that will conflict solved 
 
 # My new section bla bla 
-change that conflict!
+change that conflict! or not
