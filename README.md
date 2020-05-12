@@ -11,3 +11,6 @@ change at the end
 change conflict
 
 conflict again
+
+### Help
+This is a new section for Help
