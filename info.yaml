@@ -1,0 +1,18 @@
+project:
+  name: 'Golden Flow Showcase Project'
+  owner: 'governify'
+  teamId: '001'
+  identities:
+    pivotal:
+      url: 'https://www.pivotaltracker.com/n/projects/2487772'
+    heroku:
+      url: 'https://dashboard.heroku.com/apps/gf-sandbox'
+    travis:
+      url: 'https://travis-ci.org/github/pafmon/gf-sandbox'
+  members:
+    member1:
+      name: 'Pablo'
+      surname: 'FM' 
+      githubUsername: 'pafmon'
+      pivotalUsername: 'pafmon'
+      herokuEmail: 'pafmon@gmail.com'
